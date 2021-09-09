@@ -1,5 +1,10 @@
-name <- "Johan Marbinah"
-liuid <-  "nnnnn000"
+
+#' Euclidean algorithm implementation ...
+#' @export euclidean
+#' @param a A number
+#' @param b A number
+#' @return The gcd between both numbers
+#' @references https://en.wikipedia.org/wiki/Euclidean_algorithm
 
 euclidean <- function(a, b){
   while(b != 0){
@@ -9,6 +14,3 @@ euclidean <- function(a, b){
   }
   return(a)
 }
-
-euclidean(123612, 13892347912)
-euclidean(100, 1000)
