@@ -1,0 +1,10 @@
+Package: lab3package
+Type: Package
+Title: Calculates gcd and dijkstras algorithm
+Version: 1.0
+Date: 2021-09-09
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: As the title says basically ...
+License: What license is it under?
+RoxygenNote: 7.1.1
