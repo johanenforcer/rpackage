@@ -19,7 +19,7 @@ The DESCRIPTION file:
 ~~ An overview of how to use the package, including the most important functions ~~
 }
 \author{
-\packageAuthor{Johan Marbinah and others}
+\packageAuthor{Johan Marbinah}
 
 Maintainer: \packageMaintainer{author}
 }
