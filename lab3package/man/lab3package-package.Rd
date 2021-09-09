@@ -21,7 +21,7 @@ The DESCRIPTION file:
 \author{
 \packageAuthor{Johan Marbinah}
 
-Maintainer: \packageMaintainer{author}
+Maintainer: \packageMaintainer{lab3package}
 }
 \references{
 ~~ Literature or other references for background information ~~
