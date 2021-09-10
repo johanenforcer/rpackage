@@ -8,5 +8,5 @@
 Solutions for euclidean and dijkstras algorithms ...
 }
 \author{
-Johan Marbinah
+Johan Marbinah \email{marbinah@kth.se}
 }
