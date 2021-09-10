@@ -6,7 +6,7 @@ Date: 2021-09-09
 Author: Who wrote it
 Maintainer: johan <marbinah@kth.se>
 Description: As the title says basically. Implements both dijkstras and euclidean algorithm. 
-License: What license is it under?
+License: GPL-3
 RoxygenNote: 7.1.1
 Encoding: UTF-8
 LazyData: true
